@@ -9,7 +9,7 @@
 
 # O projeto está hospedado na versel sem a autenticação que foi realizada por meio de autenticaco com token
 
-# https://wathbrasiltest-lzpm68hhj-gustavos-projects-5d491814.vercel.app
+# https://wathbrasiltest.vercel.app
 # O front foi realizado em react js, em YARN, e o back com NPM. 
 # na vercel mantive sem redirecionamento pra login e token pelo fato de só estar o front lá, mas no git tá 100% é só rodar que ele já vem com autenticação com o back end ligado
 
