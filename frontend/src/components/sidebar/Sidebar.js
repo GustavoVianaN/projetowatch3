@@ -21,7 +21,7 @@ function calltheapi() {
             console.log('response', response.status)
             if (response.status === 401) {
                 if (window.location.pathname !== '/login') {
-                //    window.location.href = '/login';
+                    window.location.href = '/login';
                 }
             }
             if (!response.ok) {
@@ -35,7 +35,7 @@ function calltheapi() {
         })
         .catch(error => {
             if (window.location.pathname !== '/login') {
-            //    window.location.href = '/login';
+                window.location.href = '/login';
             }
         });
 }
