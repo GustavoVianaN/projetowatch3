@@ -24,3 +24,5 @@
 
 
 # apos isso voce deve entrar no swagger https://localhost:9997/api  e cadastrar no endpoint dos usuários um usuario com senha para poder logar.. ambos, o front e o back estão em https 
+#não esquecer das variaveis de ambientes do back end que esta em .evn.example elas devem ser colocadas na mesma pasta no arquivo .env que dever ser criado
+
