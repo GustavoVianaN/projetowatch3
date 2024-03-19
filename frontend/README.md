@@ -21,3 +21,5 @@
 # agora voce deve estar com o back end já instanciado se tiver
 
 # deve incluir na pasta   src\enviroment\index.js  incluir no REACT_APP_API_URL: .. o url da api, eu deixei o back end padrão como 9997 e o front como 3000
+
+# apos isso voce deve entrar no swagger https://localhost/9997/api  e cadastrar no endpoint dos usuários um usuario com senha para poder logar.. ambos, o front e o back estão em https 
