@@ -1,0 +1,8 @@
+{
+    "realm": "DEFINIRREALM",
+    "auth-server-url": "http://localhost:3000/auth/",
+    "credentials": {
+      "secret": "Kafgakxk0mD2cNY5XuyrePyflQ0DEXXN"
+    },
+    "confidential-port": 0
+  }
